@@ -21,3 +21,4 @@ Polished Player Feedback: The game provides clear visual and auditory feedback f
 ▶️ Play the Game!
 
 You can play the game in your browser on its itch.io page:
+**https://shanmukha.itch.io/balloon-ascent**
